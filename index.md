@@ -1,12 +1,27 @@
 ---
-slug: "github-gatt-to-wto"
-title: "gatt-to-wto"
-repo: "justin-napolitano/gatt-to-wto"
-githubUrl: "https://github.com/justin-napolitano/gatt-to-wto"
-generatedAt: "2025-11-23T08:59:14.483533Z"
-source: "github-auto"
+slug: github-gatt-to-wto
+title: Technical Overview of the GATT to WTO Transition Repository
+repo: justin-napolitano/gatt-to-wto
+githubUrl: https://github.com/justin-napolitano/gatt-to-wto
+generatedAt: '2025-11-23T08:59:14.483533Z'
+source: github-auto
+summary: >-
+  Analysis and documentation of the historical and legal transition from GATT to WTO in a Word
+  document with supplementary text data.
+tags:
+  - international-trade
+  - legal-analysis
+  - gatt
+  - wto
+  - document-processing
+  - trade-policy
+seoPrimaryKeyword: gatt to wto transition
+seoSecondaryKeywords:
+  - trade law
+  - international trade policy
+  - document analysis
+seoOptimized: true
 ---
-
 
 # Technical Overview: gatt-to-wto Repository
 
