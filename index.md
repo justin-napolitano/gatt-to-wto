@@ -21,6 +21,14 @@ seoSecondaryKeywords:
   - international trade policy
   - document analysis
 seoOptimized: true
+topicFamily: latex
+topicFamilyConfidence: 0.9
+topicFamilyNotes: >-
+  The post focuses on a document-centric repository using Word (.docx) files for a technical and
+  legal analysis, emphasizing document structure, formatting, and considerations for conversion and
+  automation. Among the families, 'latex' covers professional document preparation, build
+  automation, and related tooling, fitting this post's content better than others focused on coding,
+  automation scripts, data science, or personal topics.
 ---
 
 # Technical Overview: gatt-to-wto Repository
@@ -56,3 +64,4 @@ For future development or usage:
 ## Summary
 
 This repository serves as a container for a detailed study on the GATT to WTO transition. While currently document-centric, it provides a foundation for further technical enhancements to support research workflows and data accessibility.
+
