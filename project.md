@@ -1,14 +1,14 @@
 ---
 slug: github-gatt-to-wto
 id: github-gatt-to-wto
-title: GATT to WTO Project Overview and Future Plans
+title: GATT to WTO Project Documentation and Structure
 repo: justin-napolitano/gatt-to-wto
 githubUrl: https://github.com/justin-napolitano/gatt-to-wto
 generatedAt: '2025-11-24T21:34:51.257Z'
 source: github-auto
 summary: >-
-  Explore the GATT to WTO project, including features, tech stack, and future
-  development plans.
+  Explore the GATT to WTO project, featuring comprehensive documentation and
+  supplementary text files for analysis.
 tags:
   - gatt
   - wto
@@ -16,13 +16,15 @@ tags:
   - text files
   - documentation
   - data analysis
-seoPrimaryKeyword: gatt to wto project
+  - text analysis
+  - data extraction
+seoPrimaryKeyword: gatt to wto documentation
 seoSecondaryKeywords:
-  - gatt wto transition
-  - microsoft word documentation
+  - gatt wto relationship
   - text file analysis
+  - microsoft word project
   - repository structure
-  - future development plans
+  - markdown conversion
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
