@@ -1,21 +1,29 @@
 ---
 slug: github-gatt-to-wto
 id: github-gatt-to-wto
-title: gatt-to-wto
+title: GATT to WTO Project Overview and Future Plans
 repo: justin-napolitano/gatt-to-wto
 githubUrl: https://github.com/justin-napolitano/gatt-to-wto
 generatedAt: '2025-11-24T21:34:51.257Z'
 source: github-auto
 summary: >-
-  This repository contains a document titled "FromGattotheWTO" which appears to
-  involve a detailed discussion or analysis related to the General Agreement on
-  Tariffs and Trade (GATT) and the World Trade Organization (WTO). The project
-  currently consists primarily of a Word document and a folder named `full-txt`
-  which likely contains supplementary text files or data.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore the GATT to WTO project, including features, tech stack, and future
+  development plans.
+tags:
+  - gatt
+  - wto
+  - microsoft word
+  - text files
+  - documentation
+  - data analysis
+seoPrimaryKeyword: gatt to wto project
+seoSecondaryKeywords:
+  - gatt wto transition
+  - microsoft word documentation
+  - text file analysis
+  - repository structure
+  - future development plans
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
