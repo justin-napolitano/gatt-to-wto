@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/gatt-to-wto
 generatedAt: '2025-11-24T21:34:51.257Z'
 source: github-auto
 summary: >-
-  Explore the GATT to WTO project, featuring comprehensive documentation and
-  supplementary text files for analysis.
+  Explore the GATT to WTO project, featuring comprehensive documentation and supplementary text
+  files for analysis.
 tags:
   - gatt
   - wto
@@ -26,8 +26,8 @@ seoSecondaryKeywords:
   - repository structure
   - markdown conversion
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.8
 kind: project
 entryLayout: project
 showInProjects: true
@@ -76,4 +76,5 @@ full-txt/             # Folder containing additional text files
 - Include metadata or tags to improve searchability.
 - Develop scripts or tools to analyze or extract data from the text files if applicable.
 - Clarify and document the purpose and scope of the repository for broader understanding.
+
 
