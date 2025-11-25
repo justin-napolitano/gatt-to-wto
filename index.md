@@ -1,13 +1,13 @@
 ---
 slug: github-gatt-to-wto
-title: Technical Overview of the GATT to WTO Transition Repository
+title: Technical Overview of the gatt-to-wto Repository
 repo: justin-napolitano/gatt-to-wto
 githubUrl: https://github.com/justin-napolitano/gatt-to-wto
 generatedAt: '2025-11-23T08:59:14.483533Z'
 source: github-auto
 summary: >-
-  Analysis and documentation of the historical and legal transition from GATT to WTO in a Word
-  document with supplementary text data.
+  Explore the gatt-to-wto repository, detailing the transition from GATT to WTO
+  with analysis, implementation details, and practical considerations.
 tags:
   - international-trade
   - legal-analysis
@@ -15,20 +15,30 @@ tags:
   - wto
   - document-processing
   - trade-policy
-seoPrimaryKeyword: gatt to wto transition
-seoSecondaryKeywords:
-  - trade law
-  - international trade policy
+  - international trade
   - document analysis
+  - xml
+  - data accessibility
+  - research workflows
+seoPrimaryKeyword: gatt to wto transition analysis
+seoSecondaryKeywords:
+  - GATT WTO repository
+  - trade policy documents
+  - Office Open XML structure
+  - document conversion
+  - research data accessibility
 seoOptimized: true
 topicFamily: latex
 topicFamilyConfidence: 0.9
 topicFamilyNotes: >-
-  The post focuses on a document-centric repository using Word (.docx) files for a technical and
-  legal analysis, emphasizing document structure, formatting, and considerations for conversion and
-  automation. Among the families, 'latex' covers professional document preparation, build
-  automation, and related tooling, fitting this post's content better than others focused on coding,
+  The post focuses on a document-centric repository using Word (.docx) files for
+  a technical and legal analysis, emphasizing document structure, formatting,
+  and considerations for conversion and automation. Among the families, 'latex'
+  covers professional document preparation, build automation, and related
+  tooling, fitting this post's content better than others focused on coding,
   automation scripts, data science, or personal topics.
+kind: project
+id: github-gatt-to-wto
 ---
 
 # Technical Overview: gatt-to-wto Repository
